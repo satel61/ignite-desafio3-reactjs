@@ -7,6 +7,12 @@ export const Container = styled.header`
   align-items: center;
   margin: 50px 0;
 
+  img {
+    height: 210px;
+    width: 210px;
+
+  }
+
   a {
     transition: opacity 0.2s;
 
@@ -27,7 +33,7 @@ export const Cart = styled(Link)`
 
     strong {
       display: block;
-      color: #fff;
+      color: #999;
     }
 
     span {

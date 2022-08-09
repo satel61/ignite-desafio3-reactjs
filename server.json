@@ -28,39 +28,39 @@
   "products": [
     {
       "id": 1,
-      "title": "Tênis de Caminhada Leve Confortável",
+      "title": "Cachaça 51",
       "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "image": "https://supercordeiro.com.br/wp-content/uploads/2021/03/350-CACHACA-PIRASSUNUNGA-51-GF-965ML.png"
     },
     {
       "id": 2,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "title": "Cachaça São Francisco",
       "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HE6KZMryL._AC_UL600_SR600,600_.jpg"
     },
     {
       "id": 3,
-      "title": "Tênis Adidas Duramo Lite 2.0",
+      "title": "Cachaça Pitu",
       "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "image": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/9652.jpg"
     },
     {
       "id": 5,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "title": "Cachaça 51",
       "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "image": "https://supercordeiro.com.br/wp-content/uploads/2021/03/350-CACHACA-PIRASSUNUNGA-51-GF-965ML.png"
     },
     {
       "id": 6,
-      "title": "Tênis Adidas Duramo Lite 2.0",
+      "title": "Cachaça Pitu",
       "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "image": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/9652.jpg"
     },
     {
       "id": 4,
-      "title": "Tênis de Caminhada Leve Confortável",
+      "title": "Cachaça São Francisco",
       "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61HE6KZMryL._AC_UL600_SR600,600_.jpg"
     }
   ]
 }
